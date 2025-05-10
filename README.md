@@ -14,7 +14,3 @@ Men Information Technologies Engineer (ITE) bo'lib, dasturlash va texnologiyalar
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komiljon154&layout=compact&theme=dark)
 
-## Mening GitHub Ish Faolligi Charti
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=komiljon154&theme=react-dark)
-

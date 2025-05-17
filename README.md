@@ -1,8 +1,3 @@
-https://metrics.lecoq.io/Komiljon154
-
-
-
-
 
 
 <div align="center">
